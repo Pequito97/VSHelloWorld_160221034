@@ -15,6 +15,7 @@ namespace VSHelloWorld_160221034
         public static void Main(string[] args)
         {
             //Comentario de teste
+            //Segundo comentario
             CreateWebHostBuilder(args).Build().Run();
         }
 
